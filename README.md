@@ -29,3 +29,4 @@ flask_app.py is the demo example of the Flask Deep Learning Segmentation Model S
 * email: 1207173174@qq.com
 * WeChat Public number: 最新医学影像技术
 "# PytorchDeepLearing" 
+ 
